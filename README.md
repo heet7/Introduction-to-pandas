@@ -1,1 +1,1 @@
-# Introduction-to-pandas
+# All about pandas
