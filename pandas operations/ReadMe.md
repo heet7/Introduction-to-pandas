@@ -35,7 +35,7 @@
 <p>-> slicing with iloc</p>
 <p>-> condition on columns</p>
 <p>-> comparision of two columns</p>
-<p>-> <h1>How to CREATE NEW COLUMN</h1></p>
-<p>-> <h1>How to Delete column</p></h1>
+<p><h1>-> How to CREATE NEW COLUMN</h1></p>
+<p><h1>-> How to Delete column</p></h1>
 <p>-> sorting values of columns</p>
 <p>-> multi columns sorting</p>
