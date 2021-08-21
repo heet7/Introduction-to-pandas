@@ -38,3 +38,4 @@
 <p>-> <h1>How to CREATE NEW COLUMN</h1></p>
 <p>-> <h1>How to Delete column</p>
 <p>-> sorting values of columns</p>
+<p>-> multi columns sorting</p>
